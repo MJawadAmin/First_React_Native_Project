@@ -13,10 +13,7 @@ export default function HomeScreen() {
           style={styles.reactLogo}
         />
       }>
-      <ThemedView className='text-center text-7xl'>
-        <ThemedText type="title" className='text-orange-600'>Welcome!</ThemedText>
-   
-      </ThemedView>
+    
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
         <ThemedText>
